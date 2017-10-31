@@ -6492,14 +6492,14 @@ function(libname, pkgname) {
     .format.stars <- "*"
     .format.cutoffs <- c(0.1, 0.05, 0.01)
     
-    .format.std.errors.left <- "("
+    .format.std.errors.left <- "(se = "
     .format.std.errors.right <- ")"
     
     .format.p.values.left <- "p = "
     .format.p.values.right <- ""
     
-    .format.t.stats.left <- "t = "
-    .format.t.stats.right <- ""
+    .format.t.stats.left <- "("
+    .format.t.stats.right <- ")"
     
     .format.models.text <- ""
     .format.models.left <- "\\textit{"
