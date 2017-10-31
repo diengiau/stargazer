@@ -6495,8 +6495,8 @@ function(libname, pkgname) {
     .format.std.errors.left <- "(se = "
     .format.std.errors.right <- ")"
     
-    .format.p.values.left <- "p = "
-    .format.p.values.right <- ""
+    .format.p.values.left <- "(p = "
+    .format.p.values.right <- ")"
     
     .format.t.stats.left <- "("
     .format.t.stats.right <- ")"
