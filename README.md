@@ -7,5 +7,5 @@ In particular, I need the *t*-statistics are inside parentheses, but the default
 To install it to your local R:
 
 ```
-devtools::install_github("diengiau/stargazer)
+devtools::install_github("diengiau/stargazer")
 ```
